@@ -8,6 +8,6 @@ public class Main {
         System.out.println("new");
         int b = 15;
         String s = "непустая строка";
-
+        System.out.println("some more");
     }
 }
