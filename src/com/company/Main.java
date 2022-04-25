@@ -8,6 +8,9 @@ public class Main {
         System.out.println("new");
         int b = 15;
         String s = "непустая строка";
+        // добавил комментарий
+        System.out.println("add this message");
+
         System.out.println("some more");
         System.out.println("some");
     }
