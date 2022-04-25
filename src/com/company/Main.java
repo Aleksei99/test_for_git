@@ -6,5 +6,8 @@ public class Main {
         System.out.println("Hello, this is my logic");
         System.out.println("Привет из тестового задания");
         System.out.println("new");
+        int b = 15;
+        String s = "непустая строка";
+
     }
 }
