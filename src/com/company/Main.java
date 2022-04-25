@@ -9,5 +9,6 @@ public class Main {
         int b = 15;
         String s = "непустая строка";
         System.out.println("some more");
+        System.out.println("some");
     }
 }
