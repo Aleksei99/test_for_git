@@ -1,2 +1,6 @@
-package com.company;public class Test {
+package com.company;
+
+public class Test {
+    private int b;
 }
+
