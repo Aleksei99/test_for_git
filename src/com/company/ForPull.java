@@ -9,5 +9,10 @@ public class ForPull {
         System.out.println("Hrllooioo");
         System.out.println("Hrllooioo");
         System.out.println("Hrllooioo");
+
+    }
+    public void manyCommits(){
+        System.out.println("1");
+        System.out.println("2");
     }
 }
