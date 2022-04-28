@@ -13,5 +13,6 @@ public class ForPull {
     }
     public void manyCommits(){
         System.out.println("1");
+        System.out.println("2");
     }
 }
